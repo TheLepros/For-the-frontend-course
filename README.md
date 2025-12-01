@@ -1,2 +1,3 @@
 # For-the-frontend-course
-nothing is inside
+
+გიტჰაბი უკვე მქონდა, შეცქმენი ახალი PUBLIC რეპო და დავდე პატარა თამაშის პროტოტიპი
